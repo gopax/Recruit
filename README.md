@@ -65,5 +65,8 @@ https://blog.naver.com/streami_hr
   
 고팍스 회원가입시 추천인 코드 QOOQOO를 입력하시고 계좌등록하시면 15,000원 드립니다.  
 https://www.gopax.co.kr/signup?refCode=QOOQOO  
-  
-채용문의 / 지원 : <hr@streami.co>
+
+채용문의 / 지원 : <hiring@streami.co>
+
+
+![](recruit.png)
