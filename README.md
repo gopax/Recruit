@@ -59,9 +59,6 @@ https://blog.naver.com/streami_hr
 
 ### 기타
 코로나 바이러스 감염 예방을 위해, 모든 면접단계를 온라인으로 진행하고 있습니다.   
-  
-고팍스 회원가입시 추천인 코드 QOOQOO를 입력하시고 계좌등록하시면 15,000원 드립니다.  
-https://www.gopax.co.kr/signup?refCode=QOOQOO  
 
 채용문의 / 지원 : <hiring@streami.co>
 
