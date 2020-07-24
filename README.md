@@ -3,7 +3,7 @@
 스트리미는 엔지니어의 가치를 중요하게 여깁니다.  
 
 ### 채용중인 엔지니어
-Frontend Engineer ([경력](Frontend_Engineer_Senior.md) / [신입](Frontend_engineer.md))     
+Frontend Engineer ([신입](Frontend_engineer.md) / [경력](Frontend_Engineer_Senior.md))     
 Backend Engineer ([신입](Backend_Engineer.md) / [경력](Backend_Engineer_Senior.md))   
 Android Engineer ([신입](Android_Engineer.md) / [경력](Android_Engineer_Senior.md))  
 iOS Engineer ([경력](iOS_Engineer.md))  
