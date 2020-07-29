@@ -8,7 +8,6 @@ Backend Engineer ([신입](Backend_Engineer.md) / [경력](Backend_Engineer_Seni
 Android Engineer ([신입](Android_Engineer.md) / [경력](Android_Engineer_Senior.md))  
 iOS Engineer ([경력](iOS_Engineer.md))  
 QA Engineer ([경력](Quality_Assurance_Engineer.md))   
-
 Scurm Master ([경력](Scrum_Master.md))   
 
 ### 소개
