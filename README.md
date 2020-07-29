@@ -2,7 +2,7 @@
 세계가 인정한 한국 최고의 거래소 고팍스를 운영중인 스트리미에서 소프트웨어 엔지니어와 스크럼 마스터를 채용합니다.  
 스트리미는 가치를 중요하게 여깁니다.  
 
-### 채용중인 엔지니어
+### 채용중인 분야
 Frontend Engineer ([신입](Frontend_Engineer.md) / [경력](Frontend_Engineer_Senior.md))     
 Backend Engineer ([신입](Backend_Engineer.md) / [경력](Backend_Engineer_Senior.md))   
 Android Engineer ([신입](Android_Engineer.md) / [경력](Android_Engineer_Senior.md))  
