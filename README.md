@@ -11,7 +11,8 @@ iOS Engineer ([경력](iOS_Engineer.md))
 ### 소개
 스트리미 연구소에서는 가상자산과 관련된 미래 기술을 연구하여 많은 사용자들에게 가치를 전달하고 있습니다.   
   
-스트리미와 관련되어 궁금한 점이 있으시면 블로그와 자료들을 참조 부탁드립니다.   
+스트리미와 관련되어 궁금한 점이 있으시면 블로그와 자료들을 참조 부탁드립니다.  
+https://streami.co/about.html    
 https://medium.com/gopax  
 https://blog.naver.com/streami_hr  
 
