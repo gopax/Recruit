@@ -3,10 +3,12 @@
 스트리미는 엔지니어의 가치를 중요하게 여깁니다.  
 
 ### 채용중인 분야
-Frontend Engineer ([신입](Frontend_Engineer.md) / [경력](Frontend_Engineer_Senior.md))     
+Frontend Engineer ([경력](Frontend_Engineer_Senior.md))     
 Backend Engineer ([신입](Backend_Engineer.md) / [경력](Backend_Engineer_Senior.md))   
-Android Engineer ([신입](Android_Engineer.md) / [경력](Android_Engineer_Senior.md))  
+Android Engineer ([경력](Android_Engineer_Senior.md))  
 iOS Engineer ([경력](iOS_Engineer.md))  
+Data Engineer ([경력](Data_engineer.md))
+DevOps Engineer ([경력](DevOps_engineer.md))
 
 ### 소개
 스트리미 연구소에서는 가상자산과 관련된 미래 기술을 연구하여 많은 사용자들에게 가치를 전달하고 있습니다.   
@@ -55,7 +57,7 @@ https://blog.naver.com/streami_hr
 - 개인 법인카드 (마일리지 개인에게 지급)
 - 스터디 / 업무용 도서구매
 - 최신 네스프레소 캡슐 커피
-- 본인이 원하는 키보드 (50만원 내)
+- 본인이 원하는 키보드등 개인장비 (50만원 내)
 - 탄산수
 
 ### 기타
