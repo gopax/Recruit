@@ -7,7 +7,7 @@ Frontend Engineer ([경력](Frontend_Engineer_Senior.md))
 Backend Engineer ([신입](Backend_Engineer.md) / [경력](Backend_Engineer_Senior.md))   
 Android Engineer ([경력](Android_Engineer_Senior.md))  
 iOS Engineer ([경력](iOS_Engineer.md))  
-Data Engineer ([경력](Data_engineer.md))
+Data Engineer ([경력](Data_engineer.md))    
 DevOps Engineer ([경력](DevOps_engineer.md))
 
 ### 소개
