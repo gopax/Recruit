@@ -7,8 +7,8 @@ Frontend Engineer ([경력](Frontend_Engineer_Senior.md))
 Backend Engineer ([신입](Backend_Engineer.md) / [경력](Backend_Engineer_Senior.md))   
 Android Engineer ([경력](Android_Engineer_Senior.md))  
 iOS Engineer ([경력](iOS_Engineer.md))  
-Data Engineer ([경력](Data_Engineer.md))    
-DevOps Engineer ([경력](DevOps_Engineer.md))
+DevOps Engineer ([경력](DevOps_Engineer.md))   
+Quality Assurance Engineer ([경력](Quality_Assurance_Engineer.md))    
 
 ### 소개
 스트리미 연구소에서는 가상자산과 관련된 미래 기술을 연구하여 많은 사용자들에게 가치를 전달하고 있습니다.   
@@ -52,6 +52,10 @@ https://blog.naver.com/streami_hr
 - 1년 근무후 매년 건강검진비
 - 무야근이 복지 (어쩌다가 저엉말 해야만 하는 경우 저녁식대 (1.5만원) + 택시비)
 - 유연근무
+
+### 청년 복지 (정부 정책)
+- 만 34세 소득세 90% 감면 (최대 150만원, 연령제한에 복무기간 혜택있음)
+- [청년내일채움공제](https://www.work.go.kr/youngtomorrow)
 
 ### 소소한 복지
 - 개인 법인카드 (마일리지 개인에게 지급)
