@@ -1,18 +1,20 @@
-# 스트리미 연구소 엔지니어 채용 
+# 스트리미 연구소 채용 
 세계가 인정한 한국 최고의 거래소 고팍스를 운영중인 스트리미에서 소프트웨어 엔지니어를 채용합니다.  
 스트리미는 엔지니어의 가치를 중요하게 여깁니다.  
 
-### 채용중인 엔지니어
-Frontend Engineer ([신입](Frontend_Engineer.md) / [경력](Frontend_Engineer_Senior.md))     
+### 채용중인 분야
+Frontend Engineer ([경력](Frontend_Engineer_Senior.md))     
 Backend Engineer ([신입](Backend_Engineer.md) / [경력](Backend_Engineer_Senior.md))   
-Android Engineer ([신입](Android_Engineer.md) / [경력](Android_Engineer_Senior.md))  
+Android Engineer ([경력](Android_Engineer_Senior.md))  
 iOS Engineer ([경력](iOS_Engineer.md))  
-QA Engineer ([경력](Quality_Assurance_Engineer.md))   
+DevOps Engineer ([경력](DevOps_Engineer.md))   
+Quality Assurance Engineer ([경력](Quality_Assurance_Engineer.md))    
 
 ### 소개
 스트리미 연구소에서는 가상자산과 관련된 미래 기술을 연구하여 많은 사용자들에게 가치를 전달하고 있습니다.   
   
-스트리미와 관련되어 궁금한 점이 있으시면 블로그와 자료들을 참조 부탁드립니다.   
+스트리미와 관련되어 궁금한 점이 있으시면 블로그와 자료들을 참조 부탁드립니다.  
+https://streami.co/about.html    
 https://medium.com/gopax  
 https://blog.naver.com/streami_hr  
 
@@ -35,6 +37,11 @@ https://blog.naver.com/streami_hr
   기술에 있어서 만큼은 민주적인 방법보다 과학적인 절차가 우선입니다.  
 - 모든 구성원은 경어를 사용합니다.
 - 자유에는 책임이 따릅니다. 문화와 성과를 저해하는 요인이 된다고 판단될때는 경우에 따라 제한이 있을 수 있습니다. 
+
+### 팀
+- 글로벌한 인재들로 이루어진 좋은 동료들과 함께 일하실 수 있습니다. 
+- 다양한 경험을 가진 동료들과 일하실 수 있습니다.    
+  비전공자로 일하시다가 전향하신분, 어릴때부터 코딩만 하신 분, 음악이 꿈이셨던 분, 자전거 타고 비행 하셨던 분, 7개국어 하시는 분 등등
  
 ### 장점
 - 유연한 근무 시간 
@@ -47,16 +54,19 @@ https://blog.naver.com/streami_hr
 - 점심식대 (1만원)
 - 건강지원비 (연 100만원)
 - 개인 교육지원비 (연 200만원: 회사에서 50% 지원, 400일때 최대 200지원)
-- 1년 근무후 매년 건강검진비 (90만원 상당)
+- 1년 근무후 매년 건강검진비
 - 무야근이 복지 (어쩌다가 저엉말 해야만 하는 경우 저녁식대 (1.5만원) + 택시비)
 - 유연근무
+
+### 청년 복지 (정부 지원)
+- 만 34세 소득세 90% 감면 (최대 150만원, 연령제한에 복무기간 혜택있음)
+- [청년내일채움공제](https://www.work.go.kr/youngtomorrow)
 
 ### 소소한 복지
 - 개인 법인카드 (마일리지 개인에게 지급)
 - 스터디 / 업무용 도서구매
-- 다양한 원산지의 캡슐 커피, 에스프레소 머신 + 원두
-- 본인이 원하는 키보드 구매 (리얼OO,체O,해피OO)
-- 베리데스크
+- 최신 네스프레소 캡슐 커피
+- 본인이 원하는 키보드등 개인장비 (50만원 내)
 - 탄산수
 
 ### 기타
@@ -64,5 +74,12 @@ https://blog.naver.com/streami_hr
 
 채용문의 / 지원 : <hiring@streami.co>
 
+### 미디어
+MBC 똑똑 스튜디오 CEO 인터뷰      
+https://www.youtube.com/watch?v=KYqjlKqIrGo     
+https://www.youtube.com/watch?v=YraOtVCMaoA     
+     
+마이크로소프트웨어 CTO 인터뷰     
+https://www.youtube.com/watch?v=OGl3165XafA     
 
-![](recruit.png)
+
