@@ -5,9 +5,9 @@
 ### 채용중인 분야
 Frontend Engineer ([경력](Frontend_Engineer_Senior.md))     
 Backend Engineer ([신입](Backend_Engineer.md) / [경력](Backend_Engineer_Senior.md))   
-Android Engineer ([경력](Android_Engineer_Senior.md))  
-iOS Engineer ([경력](iOS_Engineer.md))  
-DevOps Engineer ([경력](DevOps_Engineer.md))   
+Android Engineer ([신입](iOS_Engineer.md) / [경력](Android_Engineer_Senior.md))  
+iOS Engineer ([신입](iOS_Engineer.md) / [경력](iOS_Engineer_Senior.md))  
+DevOps Engineer ([신입](DevOps_Engineer.md) / [경력](DevOps_Engineer_Senior.md))   
 Quality Assurance Engineer ([경력](Quality_Assurance_Engineer.md))    
 
 ### 소개
@@ -52,7 +52,7 @@ https://blog.naver.com/streami_hr
   
 ### 복지
 - 점심식대 (1만원)
-- 문화비 (연 100만원 : 운동, 문화, 일반식사, 렌터카)
+- 문화비 (연 100만원 : 운동, 문화, 일반식사, 렌터카 등)
 - 개인 교육지원비 (연 200만원: 회사에서 50% 지원, 400일때 최대 200지원)
 - 건강검진 대상자에게 약 70만원 상당 지원
 - 무야근이 복지 (어쩌다가 저엉말 해야만 하는 경우 저녁식대 (1.5만원) + 택시비)
