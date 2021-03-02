@@ -51,15 +51,15 @@ To help such efforts, we
 - Unlimited beverages
 
 ### Others
-We prefer to conduct online interviews due to COVID19, but we also provide offline interviews on requests
+We prefer to conduct online interviews due to COVID-19, but we also provide offline interviews on requests
 Send your applications to hiring@streami.co
 
 ### Media
-CEO interview with MBC Ttok-ttok studio
-https://www.youtube.com/watch?v=KYqjlKqIrGo
-https://www.youtube.com/watch?v=YraOtVCMaoA
+CEO interview with MBC Ttok-ttok studio   
+https://www.youtube.com/watch?v=KYqjlKqIrGo   
+https://www.youtube.com/watch?v=YraOtVCMaoA   
 
-CTO interview with microsoftware
-https://www.youtube.com/watch?v=OGl3165XafA
+CTO interview with microsoftware   
+https://www.youtube.com/watch?v=OGl3165XafA   
 
 
