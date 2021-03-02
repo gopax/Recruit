@@ -1,6 +1,6 @@
 # Streami Laboratory Careers ([Korean](README.md))
 Streami Inc. runs GOPAX, the leading cryptocurrency exchange in security and compliance located in South Korea, noted as the first cryptocurrency exchange in the world to receive the ISO/IEC 27001 certificate.
-Streami Laboratory is the engineering branch of Streami Inc., creating value by solving challenging technical problems in the blockchain space.
+Streami Laboratory is the engineering branch of Streami Inc., creating value by solving challenging technical problems in the blockchain space. \
 We are looking for engineers who are excited about building the future of blockchain and finance responsibly.
 
 Our challenges involve
