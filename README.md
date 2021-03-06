@@ -77,11 +77,14 @@ https://blog.naver.com/streami_hr
 채용문의 / 지원 : <hiring@streami.co>
 
 ### 미디어
-MBC 똑똑 스튜디오 CEO 인터뷰      
+#### CEO 인터뷰
+MBC 똑똑 스튜디오   
 https://www.youtube.com/watch?v=KYqjlKqIrGo     
 https://www.youtube.com/watch?v=YraOtVCMaoA     
-     
-마이크로소프트웨어 CTO 인터뷰     
-https://www.youtube.com/watch?v=OGl3165XafA     
+팍스넷 경제TV   
+https://www.youtube.com/watch?v=MvATBhBLFlA   
 
+#### CTO 인터뷰 
+마이크로소프트웨어      
+https://www.youtube.com/watch?v=OGl3165XafA   
 
