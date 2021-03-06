@@ -55,11 +55,16 @@ We prefer to conduct online interviews due to COVID-19, but we also provide offl
 Send your applications to hiring@streami.co
 
 ### Media
-CEO interview with MBC Ttok-ttok studio   
+#### CEO interview
+MBC Ttok-ttok studio   
 https://www.youtube.com/watch?v=KYqjlKqIrGo   
 https://www.youtube.com/watch?v=YraOtVCMaoA   
+   
+Paxnet Economy TV   
+https://www.youtube.com/watch?v=MvATBhBLFlA   
 
-CTO interview with microsoftware   
+#### CTO interview   
+Microsoftware      
 https://www.youtube.com/watch?v=OGl3165XafA   
 
 
