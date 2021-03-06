@@ -81,6 +81,7 @@ https://blog.naver.com/streami_hr
 MBC 똑똑 스튜디오   
 https://www.youtube.com/watch?v=KYqjlKqIrGo     
 https://www.youtube.com/watch?v=YraOtVCMaoA     
+    
 팍스넷 경제TV   
 https://www.youtube.com/watch?v=MvATBhBLFlA   
 
