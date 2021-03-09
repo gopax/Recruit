@@ -50,9 +50,8 @@ To help such efforts, we
 - Group activity support (50K KRW/mo)
 - Unlimited beverages
 
-### Others
-We prefer to conduct online interviews due to COVID-19, but we also provide offline interviews on requests
-Send your applications to hiring@streami.co
+### Location
+- Jamsil Station Exit 8-9, Luther Hall 18th floor
 
 ### Media
 #### CEO interview
@@ -68,3 +67,6 @@ Microsoftware
 https://www.youtube.com/watch?v=OGl3165XafA   
 
 
+### Others
+We prefer to conduct online interviews due to COVID-19, but we also provide offline interviews on requests
+Send your applications to hiring@streami.co
