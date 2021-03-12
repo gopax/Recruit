@@ -87,6 +87,9 @@ https://www.youtube.com/watch?v=MvATBhBLFlA
 마이크로소프트웨어      
 https://www.youtube.com/watch?v=OGl3165XafA   
 
+#### 개발자 인터뷰
+디센터
+https://decenter.kr/NewsView/1ZAAVQFNFH/GZ04
 
 ### 기타
 코로나 바이러스 감염 예방을 위해, 모든 면접단계를 온라인으로 진행하고 있습니다만, 희망하는 경우 오프라인 진행 가능합니다.(마스크 착용)
