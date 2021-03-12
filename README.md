@@ -87,8 +87,8 @@ https://www.youtube.com/watch?v=MvATBhBLFlA
 마이크로소프트웨어      
 https://www.youtube.com/watch?v=OGl3165XafA   
 
-#### 개발자 인터뷰
-디센터
+#### 개발자 인터뷰   
+디센터   
 https://decenter.kr/NewsView/1ZAAVQFNFH/GZ04
 
 ### 기타
