@@ -22,7 +22,7 @@ To help such efforts, we
 - Frontend Engineer ([Senior](Frontend_Engineer_Senior.md))
 - Android Engineer ([Junior](iOS_Engineer.md) / [Senior](Android_Engineer_Senior.md))
 - iOS Engineer ([Junior](iOS_Engineer.md) / [Senior](iOS_Engineer_Senior.md))
-- Quality Assurance Engineer ([Senior](Quality_Assurance_Engineer.md))
+- Quality Assurance Engineer ([Junior](Quality_Assurance_Engineer_Senior.md) / [Senior](Quality_Assurance_Engineer_Senior.md))
 
 
 ### What do we provide to make employees life better?

@@ -8,7 +8,7 @@ Backend Engineer ([신입](Backend_Engineer.md) / [경력](Backend_Engineer_Seni
 Android Engineer ([신입](iOS_Engineer.md) / [경력](Android_Engineer_Senior.md))  
 iOS Engineer ([신입](iOS_Engineer.md) / [경력](iOS_Engineer_Senior.md))  
 DevOps Engineer ([신입](DevOps_Engineer.md) / [경력](DevOps_Engineer_Senior.md))   
-Quality Assurance Engineer ([경력](Quality_Assurance_Engineer.md))    
+Quality Assurance Engineer ([신입](Quality_Assurance_Engineer.md) / [경력](Quality_Assurance_Engineer_Senior.md))    
 
 ### 소개
 스트리미 연구소에서는 가상자산과 관련된 미래 기술을 연구하여 많은 사용자들에게 가치를 전달하고 있습니다.   
