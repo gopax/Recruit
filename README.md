@@ -5,7 +5,7 @@
 ### 채용중인 분야
 Frontend Engineer ([경력](Frontend_Engineer_Senior.md))     
 Backend Engineer ([신입](Backend_Engineer.md) / [경력](Backend_Engineer_Senior.md))   
-Android Engineer ([신입](iOS_Engineer.md) / [경력](Android_Engineer_Senior.md))  
+Android Engineer ([경력](Android_Engineer_Senior.md))  
 iOS Engineer ([신입](iOS_Engineer.md) / [경력](iOS_Engineer_Senior.md))  
 DevOps Engineer ([신입](DevOps_Engineer.md) / [경력](DevOps_Engineer_Senior.md))   
 Quality Assurance Engineer ([신입](Quality_Assurance_Engineer.md) / [경력](Quality_Assurance_Engineer_Senior.md))    
