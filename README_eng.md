@@ -18,12 +18,6 @@ To help such efforts, we
 - [Backend Engineer](Backend_Engineer_eng.md)
 - [DevOps Engineer](DevOps_Engineer_eng.md)
 
-#### Proficiency in Korean preferred
-- Frontend Engineer ([Senior](Frontend_Engineer_Senior.md))
-- Android Engineer ([Senior](Android_Engineer_Senior.md))
-- iOS Engineer ([Junior](iOS_Engineer.md) / [Senior](iOS_Engineer_Senior.md))
-- Quality Assurance Engineer ([Junior](Quality_Assurance_Engineer_Senior.md) / [Senior](Quality_Assurance_Engineer_Senior.md))
-
 
 ### What do we provide to make employees life better?
 - Subsidized meals (10k won / meal)
