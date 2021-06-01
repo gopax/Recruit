@@ -63,4 +63,4 @@ https://www.youtube.com/watch?v=OGl3165XafA
 
 ### Others
 We prefer to conduct online interviews due to COVID-19, but we also provide offline interviews on requests
-Send your applications to hiring@streami.co
+If you put refCode "QOOQOO", you can get 10k won https://www.gopax.co.kr/signup?refCode=QOOQOO
