@@ -91,6 +91,9 @@ https://www.youtube.com/watch?v=OGl3165XafA
 https://decenter.kr/NewsView/1ZAAVQFNFH/GZ04
 
 ### 기타
-코로나 바이러스 감염 예방을 위해, 모든 면접단계를 온라인으로 진행하고 있습니다만, 희망하는 경우 오프라인 진행 가능합니다.(마스크 착용)
+코로나 바이러스 감염 예방을 위해, 모든 면접단계를 온라인으로 진행하고 있습니다만, 희망하는 경우 오프라인 진행 가능합니다.(마스크 착용)     
+     
+고팍스 회원가입시 추천인코드 QOOQOO를 입력하시고 계좌등록까지 마치시면 만원 입금해 드립니다.       
+https://www.gopax.co.kr/signup?refCode=QOOQOO     
 
 채용문의 / 지원 : <hiring@streami.co>
