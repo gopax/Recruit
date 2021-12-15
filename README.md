@@ -1,14 +1,16 @@
 # 스트리미 연구소 채용 ([English](README_eng.md))
 세계가 인정한 한국 최고의 거래소 고팍스를 운영중인 스트리미에서 소프트웨어 엔지니어를 채용합니다.  
-크립토 컴페어 암호화폐 거래소 평가에서 국내 유일한 A 등급으로 평가받았으며 DCG로부터 전략적 투자를 유치하였습니다. 
+크립토 컴페어 암호화폐 거래소 평가에서 국내 유일한 A 등급으로 평가받았으며 DCG로부터 전략적 투자를 유치하였습니다.      
+가상자산 거래소 고팍스는 금융감독원에 가상자산 사업자로 신고 수리되었습니다. 
 
 스트리미는 엔지니어의 가치를 중요하게 여깁니다.  
 
 ### 채용중인 분야
 Scrum Master ([경력](Scrum_Master.md))    
-Frontend Engineer ([경력](Frontend_Engineer_Senior.md))     
-Backend Engineer ([경력](Backend_Engineer_Senior.md))   
-DevOps Engineer ([경력](DevOps_Engineer_Senior.md))   
+Frontend Engineer ([신입](Frontend_Engineer.md) / [경력](Frontend_Engineer_Senior.md))     
+Backend Engineer ([신입](Backend_Engineer.md) / [경력](Backend_Engineer_Senior.md))   
+DevOps Engineer ([신입](DevOps_Engineer.md) / [경력](DevOps_Engineer_Senior.md))     
+Quality Assurance Engineer ([경력](Quality_Assurance_Engineer_Senior.md))
 
 ### 소개
 스트리미 연구소에서는 가상자산과 관련된 미래 기술을 연구하여 많은 사용자들에게 가치를 전달하고 있습니다.   
