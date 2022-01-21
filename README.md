@@ -10,7 +10,8 @@ Scrum Master ([경력](Scrum_Master.md))
 Frontend Engineer ([신입](Frontend_Engineer.md) / [경력](Frontend_Engineer_Senior.md))     
 Backend Engineer ([신입](Backend_Engineer.md) / [경력](Backend_Engineer_Senior.md))   
 DevOps Engineer ([신입](DevOps_Engineer.md) / [경력](DevOps_Engineer_Senior.md))     
-Quality Assurance Engineer ([경력](Quality_Assurance_Engineer_Senior.md))
+Quality Assurance Engineer ([경력](Quality_Assurance_Engineer_Senior.md))     
+기술 전략 ([경력](Technology_Strategist.md))
 
 ### 소개
 스트리미 연구소에서는 가상자산과 관련된 미래 기술을 연구하여 많은 사용자들에게 가치를 전달하고 있습니다.   
