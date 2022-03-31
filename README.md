@@ -9,9 +9,11 @@
 Scrum Master ([경력](Scrum_Master.md))    
 Frontend Engineer ([경력](Frontend_Engineer_Senior.md))     
 Backend Engineer ([신입](Backend_Engineer.md) / [경력](Backend_Engineer_Senior.md))   
+Data Engineer ([신입/경력](Data_Engineer.md))   
 DevOps Engineer ([신입](DevOps_Engineer.md) / [경력](DevOps_Engineer_Senior.md))     
-Quality Assurance Engineer ([경력](Quality_Assurance_Engineer_Senior.md))     
-기술 전략 ([경력](Technology_Strategist.md))
+Quality Assurance Engineer ([경력](Quality_Assurance_Engineer_Senior.md))   
+Developer Relations ([경력무관](Developer_Relations.md))    
+기술 전략 ([경력](Technology_Strategist.md))   
 
 ### 소개
 스트리미 연구소에서는 가상자산과 관련된 미래 기술을 연구하여 많은 사용자들에게 가치를 전달하고 있습니다.   
@@ -47,7 +49,9 @@ https://streami.co
 - 코드 리뷰를 제대로 해드립니다. 
 - 적절히 난이도가 있는 업무를 할당 해 드릴 수 있습니다. 
 - 원하시면 매우 난이도가 높은 테스크도 드립니다. 
-- 계속 발전하고 싶은 분들에게 좋은 조직 
+- 계속 발전하고 싶은 분들에게 좋은 조직    
+- 재택근무 가능 (Hybrid), FE / Mobile은 Full 재택 가능   
+- 비상 Full 재택 (Covid 19)   
   
 ### 복지
 - 점심식대 (1만원)
