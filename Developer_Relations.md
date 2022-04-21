@@ -1,5 +1,5 @@
 # Developer Relations 담당자 모집   
-Development Relations 담당자를 모집합니다.   
+Development Relations 담당자를 모집합니다. Technical PR을 담당할 DR 담당자
 
 ### 주요업무
 연구소 직속 스텝으로 개발자 채용, 성장, 보상 전략 수립 및 기술문화 관리   
