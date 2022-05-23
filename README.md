@@ -104,4 +104,4 @@ https://medium.com/gopax
 고팍스 회원가입시 추천인코드 QOOQOO를 입력하시고 계좌등록까지 마치시면 만원 입금해 드립니다.       
 https://www.gopax.co.kr/signup?refCode=QOOQOO     
 
-채용문의 / 지원 : <hiring@streami.co>
+채용문의 / 지원 : <hiring@streami.co>, <recruit@streami.co>
