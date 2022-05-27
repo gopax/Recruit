@@ -78,7 +78,9 @@ https://streami.co
 ### 위치
 - 잠실역 8번 출구와 9번 출구 사이 루터회관 18층
 
-### 미디어
+### 미디어   
+https://www.youtube.com/watch?v=do9MJTaOjjk    
+
 #### CEO 인터뷰
 MBC 똑똑 스튜디오   
 https://www.youtube.com/watch?v=KYqjlKqIrGo     
