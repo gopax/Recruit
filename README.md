@@ -11,9 +11,7 @@ Project Manager ([경력](Project_Manager.md))
 Frontend Engineer ([경력](Frontend_Engineer_Senior.md))     
 Backend Engineer ([경력](Backend_Engineer_Senior.md))   
 Data Engineer ([경력](Data_Engineer.md))   
-DevOps Engineer ([신입](DevOps_Engineer.md) / [경력](DevOps_Engineer_Senior.md))     
-Quality Assurance Engineer ([경력](Quality_Assurance_Engineer_Senior.md))   
-Tech PR / Developer Relations ([경력무관](Developer_Relations.md))    
+DevOps Engineer ([경력](DevOps_Engineer_Senior.md))     
 
 ### 소개
 스트리미 연구소에서는 가상자산과 관련된 미래 기술을 연구하여 많은 사용자들에게 가치를 전달하고 있습니다.   
