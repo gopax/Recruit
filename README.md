@@ -8,7 +8,6 @@
 ### 채용중인 분야
 Scrum Master ([경력](Scrum_Master.md))    
 Project Manager ([경력](Project_Manager.md))   
-Frontend Engineer ([경력](Frontend_Engineer_Senior.md))     
 Backend Engineer ([경력](Backend_Engineer_Senior.md))   
 Data Engineer ([경력](Data_Engineer.md))   
 DevOps Engineer ([경력](DevOps_Engineer_Senior.md))     
