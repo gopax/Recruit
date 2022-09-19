@@ -6,8 +6,6 @@
 스트리미는 엔지니어의 가치를 중요하게 여깁니다.  
 
 ### 채용중인 분야
-Scrum Master ([경력](Scrum_Master.md))    
-Project Manager ([경력](Project_Manager.md))   
 Backend Engineer ([경력](Backend_Engineer_Senior.md))   
 Data Engineer ([경력](Data_Engineer.md))   
 DevOps Engineer ([경력](DevOps_Engineer_Senior.md))     
